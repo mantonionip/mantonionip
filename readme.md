@@ -1,3 +1,3 @@
-# Hi 👋🏻 , I'm Sam 🧔🏻 I'm a Front End Web Developer!
+# Hi 👋🏻 , I'm Sam 🧔🏻
 
 ![](https://github.com/mantonionip/mantonionip/blob/main/banner.png)
