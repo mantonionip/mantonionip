@@ -1,3 +1,3 @@
 #Hi, I'm Sam 👋🏻 🧔🏻
 
-[![bg][banner]
+![profile](https://github.com/mantonionip/mantonionip/master/banner.png)
