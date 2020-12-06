@@ -2,8 +2,7 @@
 
 ![](https://github.com/mantonionip/mantonionip/blob/main/banner.png)
 
-I’m a Toronto-based Front-End Web Developer and thinker who loves creative challenges. I'm excited by opportunities to experiment and think outside the box. As a former film/video editor, I'm resilient, a creative problem solver, and well-acquainted with collaboration and iteration.
-I'm always experimenting and learning – and I bring my love for exploration, problem-solving, and creation to everything I do. I strive to create accessible digital products that bring delightful and seamless user experience. I'm self-motivated and curious life-long learner, who is excited for challenges that come with coding and new technologies.
+I’m a Front End Web Developer and thinker who builds creative and original digital products in JavaScript and React. With experience working in agile environments, I possess an exceptional work ethic and excellent problem solving skills. My knowledge of accessible and responsive digital products gained from professional development experience and a previous career in TV & Film enable me to merge functionality and UX seamlessly.
 
 
 🏡 [website][website] **|** 
