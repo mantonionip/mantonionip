@@ -1,4 +1,4 @@
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is [Sam Pilehvarian][website]!
+## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is [Sam Pilehvarian][website]!
 
 [![Twitter: SamDevCodes](https://img.shields.io/twitter/follow/SamDevCodes?style=social)](https://twitter.com/SamDevCodes)
 [![Linkedin: sam-pilehvarian](https://img.shields.io/badge/-sampilehvarian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helloalexdodd/)](https://www.linkedin.com/in/sam-pilehvarian/)
@@ -8,7 +8,7 @@
 
 <hr />
 
-## I'm a Front End Web Developer 👨🏻‍💻, Film Editor 🎬, and Hardcore Cinephile 🎟
+### I'm a Front End Web Developer 👨🏻‍💻, Film Editor 🎬, and Hardcore Cinephile 🎟
 
 I build creative and original digital products in JavaScript and React. With experience working in agile environments, I possess an exceptional work ethic and excellent problem solving skills. My knowledge of accessible and responsive digital products gained from professional development experience and a previous career in TV & Film enable me to merge functionality and UX seamlessly.
 
@@ -36,9 +36,9 @@ I build creative and original digital products in JavaScript and React. With exp
 
 ## Github Stats:
 
-<div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true" style="vertical-align: top;" style="color: yellow;" />
+<div align="left">
+  <div style="display: flex; flex-direction: column; align-items: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true&locale=en&theme=prussian" style="vertical-align: top;" style="color: yellow;" />
   </div>
 </div>
 
