@@ -38,7 +38,8 @@ I build creative and original digital products in JavaScript and React. With exp
 
 <div align="left">
   <div style="display: flex; flex-direction: column; align-items: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true&locale=en&theme=algolia" style="vertical-align: top;" style="color: yellow;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true&locale=en&theme=algolia" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=mantonionip&repo=github-readme-stats" />
   </div>
 </div>
 
