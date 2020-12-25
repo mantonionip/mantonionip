@@ -1,4 +1,4 @@
-# Hi, I'm Sam 👋🏻 🧔🏻
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, My name is Sam 🧔🏻
 
 ![](https://github.com/mantonionip/mantonionip/blob/main/hero-img.png)
 
