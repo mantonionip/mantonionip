@@ -38,7 +38,7 @@ I build creative and original digital products in JavaScript and React. With exp
 
 <div align="left">
   <div style="display: flex; flex-direction: column; align-items: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true&locale=en&theme=prussian" style="vertical-align: top;" style="color: yellow;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true&locale=en&theme=slateorange" style="vertical-align: top;" style="color: yellow;" />
   </div>
 </div>
 
