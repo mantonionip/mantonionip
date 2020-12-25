@@ -4,11 +4,12 @@
 [![Linkedin: sam-pilehvarian](https://img.shields.io/badge/-sampilehvarian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helloalexdodd/)](https://www.linkedin.com/in/sam-pilehvarian/)
 [![GitHub mantonionip](https://img.shields.io/github/followers/mantonionip?label=follow&style=social)](https://github.com/mantonionip)
 
-![](https://github.com/mantonionip/mantonionip/blob/main/hero-img.png)
-
 <hr />
 
 ### I'm a Front End Web Developer 👨🏻‍💻, Film Editor 🎬, and Hardcore Cinephile 🎟
+
+![](https://github.com/mantonionip/mantonionip/blob/main/hero-img.png)
+<img align="right" width="400" src="https://github.com/mantonionip/mantonionip/blob/main/hero-img.png">
 
 I build creative and original digital products in JavaScript and React. With experience working in agile environments, I possess an exceptional work ethic and excellent problem solving skills. My knowledge of accessible and responsive digital products gained from professional development experience and a previous career in TV & Film enable me to merge functionality and UX seamlessly.
 
