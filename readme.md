@@ -42,8 +42,6 @@ I build creative and original digital products in JavaScript and React. With exp
   </div>
 </div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mantonionip&repo=github-readme-stats)](https://github.com/mantonionip/github-readme-stats)
-
 [website]: https://samdev.codes
 [twitter]: https://twitter.com/SamDevCodes
 [linkedin]: https://www.linkedin.com/in/sam-pilehvarian/
