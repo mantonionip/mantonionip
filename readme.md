@@ -12,6 +12,18 @@
 
 I build creative and original digital products in JavaScript and React. With experience working in agile environments, I possess an exceptional work ethic and excellent problem solving skills. My knowledge of accessible and responsive digital products gained from professional development experience and a previous career in TV & Film enable me to merge functionality and UX seamlessly.
 
+<br />
+<br />
+
+## Github Stats:
+
+<div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantonionip&langs_count=7&layout=compact" />
+  </div>
+</div>
+
 [website]: https://samdev.codes
 [twitter]: https://twitter.com/SamDevCodes
 [linkedin]: https://www.linkedin.com/in/sam-pilehvarian/
