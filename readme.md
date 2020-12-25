@@ -23,7 +23,7 @@ I build creative and original digital products in JavaScript and React. With exp
 <img width="26px" height="36.5px" align="left" src="./react.svg" alt="React.js" title="React.js">
 <img width="46px" height="36.5px" align="left" src="./jquery.svg" alt="jQuery" title="jQuery">
 <img width="46px" height="36.5px" align="left" src="./php.svg" alt="PHP" title="PHP">
-<img width="46px" height="36.5px" align="left" src="./wordpress.png" alt="WordPress" title="WordPress">
+<img width="46px" height="36.5px" align="left" src="./wordpress.svg" alt="WordPress" title="WordPress">
 <img width="46px" height="36.5px" align="left" src="./shopify.png" alt="Shopify" title="Shopify">
 <img width="46px" height="36.5px" align="left" src="./firebase.png" alt="Firebase" title="Firebase">
 <img width="46px" height="36.5px" align="left" src="./gulp.png" alt="Gulp" title="Gulp">
