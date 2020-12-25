@@ -16,7 +16,7 @@ I build creative and original digital products in JavaScript and React. With exp
 
 ## Languages and Tools:
 
-<img width="26px" height="36.5px" align="left" src="./icons/html5.svg" alt="HTML5" title="HTML5">
+<img width="26px" height="36.5px" align="left" src="./html5.svg" alt="HTML5" title="HTML5">
 <img width="26px" height="36.5px" align="left" src="./icons/css3.svg" alt="CSS3" title="CSS3">
 <img width="26px" height="36.5px" align="left" src="./icons/sass.svg" alt="SCSS" title="SCSS">
 <img width="26px" height="36.5px" align="left" src="./icons/js.svg" alt="JavaScript" title="JavaScript">
