@@ -38,8 +38,7 @@ I build creative and original digital products in JavaScript and React. With exp
 
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantonionip&langs_count=7&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true" style="vertical-align: top;" style="color: yellow;" />
   </div>
 </div>
 
