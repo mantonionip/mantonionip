@@ -13,12 +13,13 @@
 I love building creative and original digital products in JavaScript and React. With experience working in agile environments, I possess an exceptional work ethic and excellent problem solving skills. My knowledge of accessible and responsive digital products gained from professional development experience and a previous career in TV & Film enable me to merge functionality and UX seamlessly.
 
 <br />
+<br />
 
 - 💼 I'm employed at [D2L](https://www.d2l.com/)
 - 🤓 I'm currently learning Node.js, GrphQL, and TypeScript
 - 🛍 I enjoy writing [Liquid](https://shopify.github.io/liquid/) to build Shopify stores and help local businesses grow online
 - ✅ 2021 Goal: To learn Ruby & Ruby on Rails
-- ⚡️ Fun Fact: I've seen [Cinema Paradiso](https://www.youtube.com/watch?v=JMyVSD6OvO8&ab_channel=ArrowAcademy)over 40 times!
+- ⚡️ Fun Fact: I've seen [Cinema Paradiso](https://www.youtube.com/watch?v=JMyVSD6OvO8&ab_channel=ArrowAcademy) over 40 times!
 
 ## Languages, Frameworks, and Tools:
 
