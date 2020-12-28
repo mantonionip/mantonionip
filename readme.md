@@ -41,7 +41,6 @@ I love building creative and original digital products in JavaScript and React. 
 <img width="26px" height="36.5px" align="left" src="./visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code">
 
 <br />
-<br />
 
 ## Github Stats:
 
