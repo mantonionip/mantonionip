@@ -3,7 +3,7 @@
 [![Twitter: SamDevCodes](https://img.shields.io/twitter/follow/SamDevCodes?style=social)](https://twitter.com/SamDevCodes)
 [![Linkedin: sam-pilehvarian](https://img.shields.io/badge/-sampilehvarian-blue??style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sam-pilehvarian/)](https://www.linkedin.com/in/sam-pilehvarian/)
 [![GitHub mantonionip](https://img.shields.io/github/followers/mantonionip?label=follow&style=social)](https://github.com/mantonionip)
-[![Letterboxd Follow](https://img.shields.io/letterboxd/follow/MantonioniP?label=Follow&style=social)](https://letterboxd.com/MantonioniP)
+[![Letterboxd Follow](https://img.shields.io/letterboxd/followers/MantonioniP?style=social)](https://letterboxd.com/MantonioniP)
 
 <hr />
 
