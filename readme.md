@@ -13,6 +13,7 @@
 I love building creative and original digital products in JavaScript and React. With experience working in agile environments, I possess an exceptional work ethic and excellent problem solving skills. My knowledge of accessible and responsive digital products gained from professional development experience and a previous career in TV & Film enable me to merge functionality and UX seamlessly.
 
 <br />
+<br />
 
 - 💼 I'm employed at [D2L](https://www.d2l.com/)
 - 🧔🏻 I'm currently learning Node.js, GraphQL, and TypeScript
@@ -21,6 +22,7 @@ I love building creative and original digital products in JavaScript and React. 
 - 🎞 As a hardcore cinephile I adore/admire classic cinema. Check out my film diary at [Letterboxd](https://letterboxd.com/MantonioniP/)
 - ⚡️ Fun Fact: I've seen [Cinema Paradiso](https://www.youtube.com/watch?v=JMyVSD6OvO8&ab_channel=ArrowAcademy) over 40 times!
 
+<br />
 <br />
 
 ## Languages, Frameworks, and Tools:
@@ -40,6 +42,7 @@ I love building creative and original digital products in JavaScript and React. 
 <img width="26px" height="36.5px" align="left" src="./bootstrap4.svg" alt="Bootstrap 4" title="Bootstrap 4">
 <img width="26px" height="36.5px" align="left" src="./visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code">
 
+<br />
 <br />
 
 ## Github Stats:
