@@ -49,7 +49,7 @@ I love building creative and original digital products in JavaScript and React. 
 ## Github Stats:
 
 <div align="left">
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; flex-direction: column; justify-content: center align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true&locale=en&theme=algolia" />
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantonionip&langs_count=7&layout=compact&theme=algolia" /> -->
   </div>
