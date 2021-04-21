@@ -32,10 +32,7 @@ I love building creative and original digital products in JavaScript and React. 
 <img width="26px" height="36.5px" align="left" src="./sass.svg" alt="SCSS" title="SCSS">
 <img width="26px" height="36.5px" align="left" src="./js.svg" alt="JavaScript" title="JavaScript">
 <img width="26px" height="36.5px" align="left" src="./react.svg" alt="React.js" title="React.js">
-<img width="26px" height="36.5px" align="left" src="./redux.svg" alt="Redux" title="Redux">
 <img width="46px" height="36.5px" align="left" src="./jquery.svg" alt="jQuery" title="jQuery">
-<img width="46px" height="36.5px" align="left" src="./php.svg" alt="PHP" title="PHP">
-<img width="26px" height="36.5px" align="left" src="./wordpress.svg" alt="WordPress" title="WordPress">
 <img width="26px" height="36.5px" align="left" src="./shopify.svg" alt="Shopify" title="Shopify">
 <img width="26px" height="30.5px" align="left" src="./firebase.svg" alt="Firebase" title="Firebase">
 <img width="26px" height="36.5px" align="left" src="./gulp.png" alt="Gulp" title="Gulp">
