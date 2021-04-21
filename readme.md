@@ -17,9 +17,8 @@ I love building creative and original digital products in JavaScript and React. 
 <br />
 
 - 💼 I'm employed at [D2L](https://www.d2l.com/)
-- 🧔🏻 I'm currently learning Node.js, GraphQL, and TypeScript
 - 🛍 I enjoy writing [Liquid](https://shopify.github.io/liquid/) to build Shopify stores and help local businesses grow online
-- ▶️ My 2021 goal is to learn Ruby & Ruby on Rails
+- ▶️ My 2021 goal is to learn Node.js and TypeScript
 - 🎞 As a hardcore cinephile I adore/admire classic cinema. Check out my film diary at [Letterboxd](https://letterboxd.com/MantonioniP/)
 - ⚡️ Fun Fact: I've seen [Cinema Paradiso](https://www.youtube.com/watch?v=JMyVSD6OvO8&ab_channel=ArrowAcademy) over 40 times!
 
