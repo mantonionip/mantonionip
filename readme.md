@@ -7,7 +7,7 @@
 
 <hr />
 
-### I'm a Web Developer 👨🏻‍💻, Film Editor 🎬, and Hardcore Cinephile 🎟
+### I'm a Frontend Engineer 👨🏻‍💻, Film Editor 🎬, and Hardcore Cinephile 🎟
 
 ![](https://github.com/mantonionip/mantonionip/blob/main/banner.gif)
 
