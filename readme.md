@@ -16,7 +16,7 @@ I love building creative and original digital products in JavaScript and React. 
 <br />
 <br />
 
-- 💼 I'm employed at [D2L](https://www.d2l.com/)
+- 💼 I'm employed at [Loblaw Digital](https://www.loblawdigital.co/)
 - 🛍 I enjoy writing [Liquid](https://shopify.github.io/liquid/) to build Shopify stores and help local businesses grow online
 - ▶️ My 2021 goal is to learn Node.js and TypeScript
 - 🎞 As a hardcore cinephile I adore/admire classic cinema. Check out my film diary at [Letterboxd](https://letterboxd.com/MantonioniP/)
