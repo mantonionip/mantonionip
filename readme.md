@@ -18,8 +18,9 @@ I love building creative and original digital products in JavaScript and React. 
 
 - 💼 I'm employed at [Loblaw Digital](https://www.loblawdigital.co/)
 - 🛍 I enjoy writing [Liquid](https://shopify.github.io/liquid/) to build Shopify stores and help local businesses grow online
-- ▶️ My 2021 goal is to learn Node.js and TypeScript
-- 🎞 As a hardcore cinephile I adore/admire classic cinema. Check out my film diary at [Letterboxd](https://letterboxd.com/MantonioniP/)
+- I'm currenctly learning Redux and React Testing Library with Jest
+- ▶️ My 2022 goal is to learn Node.js and TypeScript
+- 🎞 As a hardcore cinephile I adore/admire classic cinema.
 - ⚡️ Fun Fact: I've seen [Cinema Paradiso](https://www.youtube.com/watch?v=JMyVSD6OvO8&ab_channel=ArrowAcademy) over 40 times!
 
 <br />
@@ -47,7 +48,7 @@ I love building creative and original digital products in JavaScript and React. 
 <div align="center">
   <div style="display: flex; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api?username=mantonionip&count_private=true&show_icons=true&locale=en&theme=algolia" />
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantonionip&langs_count=7&layout=compact&theme=algolia" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantonionip&langs_count=7&layout=compact&theme=algolia" />
   </div>
 </div>
 
