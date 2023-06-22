@@ -30,7 +30,7 @@ I love building creative and original digital products in JavaScript and React. 
 
 <img width="26px" height="36.5px" align="left" src="./js.svg" alt="JavaScript" title="JavaScript">
 <img width="26px" height="36.5px" align="left" src="./react.svg" alt="React.js" title="React.js">
-<img width="46px" height="36.5px" align="left" src="./redux-blue.png" alt="Redux" title="Redux">
+<img width="48px" height="36.5px" align="left" src="./redux-blue.png" alt="Redux" title="Redux">
 <img width="26px" height="36.5px" align="left" src="./html5.svg" alt="HTML5" title="HTML5">
 <img width="26px" height="36.5px" align="left" src="./css3.svg" alt="CSS3" title="CSS3">
 <img width="26px" height="36.5px" align="left" src="./sass.svg" alt="SCSS" title="SCSS">
