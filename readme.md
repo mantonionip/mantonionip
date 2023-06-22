@@ -17,10 +17,10 @@ I love building creative and original digital products in JavaScript and React. 
 <br />
 
 - 💼 I'm employed at [Loblaw Digital](https://www.loblawdigital.co/)
-- 🛍 I enjoy writing [Liquid](https://shopify.github.io/liquid/) to build Shopify stores and help local businesses grow online
+- 🛍 I enjoy writing code for [PC Optimum app](https://www.pcoptimum.ca/offers) to help Canadians live life well
 - ✅ I'm currenctly learning Redux and React Testing Library with Jest
-- ▶️ My 2022 goal is to learn Node.js and TypeScript
-- 🎞 As a hardcore cinephile I adore/admire classic cinema.
+- ▶️ My 2023 goal is to learn Next.js
+- 🎞 As a hardcore cinephile I admire classic cinema.
 - ⚡️ Fun Fact: I've seen [Cinema Paradiso](https://www.youtube.com/watch?v=JMyVSD6OvO8&ab_channel=ArrowAcademy) over 40 times!
 
 <br />
