@@ -18,7 +18,7 @@ I love building creative and original digital products in JavaScript and React. 
 
 - 💼 I'm employed at [Loblaw Digital](https://www.loblawdigital.co/)
 - 🛍 I enjoy writing code for [PC Optimum app](https://www.pcoptimum.ca/offers) to help Canadians live life well
-- ✅ I'm currenctly learning Redux and React Testing Library with Jest
+- ✅ I'm currenctly learning TypeScript in React + to make models in Contentful
 - ▶️ My 2023 goal is to learn Next.js
 - 🎞 As a hardcore cinephile I admire classic cinema.
 - ⚡️ Fun Fact: I've seen [Cinema Paradiso](https://www.youtube.com/watch?v=JMyVSD6OvO8&ab_channel=ArrowAcademy) over 40 times!
