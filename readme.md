@@ -32,7 +32,7 @@ I love building creative and original digital products in JavaScript and React. 
 <img width="36.5px" height="36.5px" align="left" src="./typescript-blue.png" alt="TypeScript" title="TypeScript">
 <img width="26px" height="36.5px" align="left" src="./react.svg" alt="React.js" title="React.js">
 <img width="36.5px" height="36.5px" align="left" src="./redux-blue.png" alt="Redux" title="Redux">
-<img width="36.5px" height="36.5px" align="left" src="./jest-color.png" alt="Jest" title="Jest">
+<img width="34.5px" height="34.5px" align="left" src="./jest-color.png" alt="Jest" title="Jest">
 <img width="26px" height="36.5px" align="left" src="./html5.svg" alt="HTML5" title="HTML5">
 <img width="26px" height="36.5px" align="left" src="./css3.svg" alt="CSS3" title="CSS3">
 <img width="26px" height="36.5px" align="left" src="./sass.svg" alt="SCSS" title="SCSS">
