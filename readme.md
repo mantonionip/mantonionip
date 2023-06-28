@@ -52,6 +52,6 @@ I love building creative and original digital products in JavaScript and React. 
   </div>
 </div>
 
-[website]: [https://samdev.codes](https://samdevcodes.netlify.app/)
+[website]: https://samdevcodes.netlify.app
 [twitter]: https://twitter.com/SamDevCodes
 [linkedin]: https://www.linkedin.com/in/sam-pilehvarian/
