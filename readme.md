@@ -16,8 +16,8 @@ I love building creative and original digital products in JavaScript and React. 
 <br />
 <br />
 
-- 💼 I'm employed at [Loblaw Digital](https://www.loblawdigital.co/)
-- 🛍 I enjoy writing code for [PC Optimum app](https://www.pcoptimum.ca/offers) to help Canadians live life well
+<!-- - 💼 I'm employed at [Loblaw Digital](https://www.loblawdigital.co/)
+- 🛍 I enjoy writing code for [PC Optimum app](https://www.pcoptimum.ca/offers) to help Canadians live life well -->
 - ✅ I'm currenctly learning Next JS, Moule Feeration, and SDUI.
 - ▶️ My 2024 goal is to improve the foundations of my knowledge in JavaScript.
 - 🎞 As a hardcore cinephile I admire classic cinema.
